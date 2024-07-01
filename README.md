@@ -13,7 +13,8 @@
 - A note about "Emissive" in Substance Painter, you won't witness much difference in your emissive painting unless you change your "Shader Settings" and boost the "Emissive Intensity" slider!
 - to further visualize emissive effects, visit "Display Settings" (top right monitor icon), scroll down and check "Activate Post Effects" and check "Glare"
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/3cd25a90-9f87-4c9d-9aff-899111454af0)
-- A note about "Opacity" in Substance Painter, to get the most apparent effects, use very contrasting masks or brushes. If you are working procedurally (say, wanting to make glass dirty around the edges) you can add a "Levels" effect above your procedural mask and drag the sliders to crush the highlights and shadows
+- A note about "Opacity" in Substance Painter, to get the most apparent effects, use very contrasting masks or brushes. If you are working procedurally (say, wanting to make glass dirty around the edges) you can add a "Levels" effect above your procedural mask and drag the sliders to crush the highlights and shadows.
+- Try to keep your textures under 2048x2048.
 
 ### Maya Scale Tips
 - 3D models have no inherent reference to scale. Software interprets 3D models based on user settings.
@@ -89,7 +90,7 @@ One of my favorite buttons--a great tool for safe exploration!
 ### Using the Blueprint Actor Template
 - Like with the parent material, you will ***copy*** "BP_HybridObject_Parent" from the "Copy From Here" folder into your "Blueprints" folder.
 - For this object, Please rename it "BP_yourLastName_yourFirstName".
-- You do not need to make any edits to this blueprint.
+- You do not need to make any edits to this blueprint via the content browser.
 - To use it, drag it into the viewport with ***your level active*** and edit its properties to the bottom right.
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/e9a277ef-8242-4d6f-a886-70b1de1a4dfa)
 - with this object now an actor in the game level will need to add you:
@@ -99,3 +100,7 @@ One of my favorite buttons--a great tool for safe exploration!
 	- try to position your object at eye level
 - Lastly, there is a spotlight blueprint available for your use "BP_Spotlight_Child" you can use in your personal level to light your object.
 	- note that its Z height should be set to 0, but the object will be positioned above the move tool. I've tailored it to be connected to the ceiling.
+ - When you save your level, all of your edits will save.
+ - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/f216a1dc-799a-4690-8b1c-0d800d8f4c39)
+ - Make sure all of your textures, static meshes, and materials are saved.
+
