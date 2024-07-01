@@ -41,13 +41,13 @@ Only make changes in YOUR folder in the Student folder
 ## Where Is the project in Perforce?
 ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/8b5add95-bcb7-4748-87d4-c79251ed6f0d)
 ## What am I responsible for submitting to Perforce?
-Only submit your folder from the hierarchy of:'
--  shared->
-	-  Unreal->
- 		-  Hybrid_Objects_UE_5-4->
-			   -  Content->
-      				- Student_Folders->
-      					- ***Your Folder***
+Only submit your folder from the hierarchy of:
+├── shared
+│   ├── Unreal
+│   |	├── Hybrid_Objects_UE_5-4
+│   |	|	├── Content
+│   |	|	|	├── Student_Folders
+│   |	|	|	|	├──***Your_Folder***
 ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/e9c32fb6-0103-46ae-984d-835974bf6c4a)
 ## What should I NOT submit to Perforce?
 any other folder or asset not in your own folder.
