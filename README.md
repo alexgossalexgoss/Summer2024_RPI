@@ -77,7 +77,7 @@ any other folder or asset not in your own folder.
 - ***Materials***
 - ***Blueprints***
   
-### Static Mesh Import
+## Static Mesh Import
 - in your Static_Mesh folder, import your FBX exported from Maya
 - for any of these option you may have to expand various secrtions with "▶" -> "▼"
 - do not use nanite
@@ -89,7 +89,7 @@ any other folder or asset not in your own folder.
 - If your model comes in at a funny angle or a weird size, check your maya scene, and try importing again and resetting the import settings to default
 
   
-### Textures
+## Textures
 - for Occlusion-Roughness-Metallic (ORM) textures change their compression settings to "Masks (no sRGB)" this can be batch done using Asset Actions-> " Edit Selection in Property Matrix".
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/a39576bb-5bb9-4dee-ae36-faeb434dd8b9)
 - and within Property Matrix:
@@ -98,7 +98,7 @@ any other folder or asset not in your own folder.
 - keep the Diffuse Maps as default
 - keep Normal Maps as default
   
-### Using Material Templates (Instances)
+## Using Material Templates (Instances)
 - ***Copy*** the Material Parent Instance "MI_HybridObject_Parent" from the "Copy From Here" folder into your "Materials" folder.
 - From here, you can rename, edit, duplicate, and apply these as they now belong to you.
 - Material Instances come with parameters and variables that you can change to customize the look of your shaders.
@@ -111,7 +111,7 @@ One of my favorite buttons--a great tool for safe exploration!
 - Apply these materials by opening your static mesh object and apply them to their respective materials slots. this will ensure your materials will follow your static mesh wherever it is implemented
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/8fb25f8d-88e9-4bdf-b3de-4fb2a4108acb)
 
-### Editing ***your*** level
+## Editing ***your*** level
 - first, make sure you have the levels panel available in the engine workspace.
 - go to window -> levels
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/6ae8f9c7-e987-4f9b-be15-acdc38eb63ef)
@@ -122,7 +122,7 @@ One of my favorite buttons--a great tool for safe exploration!
 - Please only edit your own level.
 - You can edit your level in isolation as well but double clicking on your level in the content browser, however, you might not see much until you've added your spotlight
   
-### Using the Blueprint Actor Template
+## Using the Blueprint Actor Template
 - Like with the parent material, you will ***copy*** "BP_HybridObject_Parent" from the "Copy From Here" folder into your "Blueprints" folder.
 - For this object, Please rename it "BP_yourLastName_yourFirstName".
 - You do not need to make any edits to this blueprint via the content browser.
