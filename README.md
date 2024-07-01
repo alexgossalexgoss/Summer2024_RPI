@@ -30,13 +30,23 @@
   If scaling multiple components, this can break the configuration of an assembly. 
 - Try deleting history for all components, and check that they all share the same origin before scaling.
 - scale object based on real world units and in reference to "Manny"
+- Manny lives here on the Perforce Depot:
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/700fc223-d20a-49c1-91b0-3165b424170f)
 - orient (translate/rotate) object so base rests on ground/grid
 - ask yourself how your object would need to rest with physics in mind
-
 # Importing and Adding your Object in Unreal Engine 5.4
 Only make changes in YOUR folder in the Student folder
 - You have a private "Level" asset you can edit directly or as a child to the main level.
-  
+
+## Where Is the project in Perforce?
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/8b5add95-bcb7-4748-87d4-c79251ed6f0d)
+## What am I responsible for submitting to Perforce?
+- Only submit your folder from the hierarchy of shared->Unreal->Hybrid_Objects_UE_5-4->Content->Student_Folders->***Your Folder***
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/e9c32fb6-0103-46ae-984d-835974bf6c4a)
+## What should I NOT submit to Perforce?
+- any other folder or asset not in your own folder.
+
+
 Keep your folders organized using: 
 - ***Static_Meshes***
 - ***Textures***
@@ -52,6 +62,7 @@ Keep your folders organized using:
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/5d7cbe79-7100-4dac-b6c2-fb77a887ec4a)
 - do not create materials or import texture
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/210282f9-8b70-480a-a19e-99ca487db517)
+- If your model comes in at a funny angle or a weird size, check your maya scene, and try importing again and resetting the import settings to default
 
   
 ### Textures
