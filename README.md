@@ -43,12 +43,15 @@ Only make changes in YOUR folder in the Student folder
 ## What am I responsible for submitting to Perforce?
 Only submit your folder from the hierarchy of:
 
+<pre>
 shared
 ├── Unreal
 │   ├── Hybrid_Objects_UE_5-4
 │   │   ├── Content
 │   │   │   ├── Student_Folders
-│   │   │   │   ├── ***Your_Folder***
+│   │   │   │   ├── <b>Your_Folder</b>
+</pre>
+
 
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/e9c32fb6-0103-46ae-984d-835974bf6c4a)
 ## What should I NOT submit to Perforce?
