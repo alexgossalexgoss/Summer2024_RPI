@@ -1,5 +1,19 @@
-# Object Preparation
+# Table of Contents
+1. [Object Preparation](#object-preparation)
+   - [Substance Painter](#substance-painter)
+     - [Maya Scale Tips](#maya-scale-tips)
+2. [Importing and Adding your Object in Unreal Engine 5.4](#importing-and-adding-your-object-in-unreal-engine-54)
+   - [Where Is the project in Perforce?](#where-is-the-project-in-perforce)
+   - [What am I responsible for submitting to Perforce?](#what-am-i-responsible-for-submitting-to-perforce)
+   - [What should I NOT submit to Perforce?](#what-should-i-not-submit-to-perforce)
+   - [Keep your folders organized using](#keep-your-folders-organized-using)
+     - [Static Mesh Import](#static-mesh-import)
+     - [Textures](#textures)
+     - [Using Material Templates (Instances)](#using-material-templates-instances)
+     - [Editing your level](#editing-your-level)
+     - [Using the Blueprint Actor Template](#using-the-blueprint-actor-template)
 
+# Object Preparation
 ***Before beginning your Substance Painter work***, I recommend labelling your object's materials clearly and meaningfully in Maya's Hypershade, these will translate to Substance Painter *and* Unreal engine and will carry through into your texture sets. A little but of organization now will make the work you do in Unreal breezy.
 
 ## Substance Painter
