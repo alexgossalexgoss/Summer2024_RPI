@@ -100,7 +100,10 @@ One of my favorite buttons--a great tool for safe exploration!
 	- try to position your object at eye level
 - Lastly, there is a spotlight blueprint available for your use "BP_Spotlight_Child" you can use in your personal level to light your object.
 	- note that its Z height should be set to 0, but the object will be positioned above the move tool. I've tailored it to be connected to the ceiling.
+ - You can toggle off and on other levels. This is often necessary to better navigate and select elements. Whatever you do, please ***do not*** save or push to Perforce, the Persistent Level: L_2411
+ - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/7380ba1c-81d1-4f5c-a543-793c12b04109)
+
  - When you save your level, all of your edits will save.
  - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/f216a1dc-799a-4690-8b1c-0d800d8f4c39)
- - Make sure all of your textures, static meshes, and materials are saved.
+ - Make sure all of your textures, static meshes, and materials are saved. Do not save the Persisent Level if you made any changes.
 
