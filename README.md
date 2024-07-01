@@ -80,9 +80,9 @@ One of my favorite buttons--a great tool for safe exploration!
 - go to window -> levels
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/6ae8f9c7-e987-4f9b-be15-acdc38eb63ef)
 - I like to dock this panel next to the outliner--but it's up to you.
-- Here, you can expand the StudentLevels folder.
-- Find your folder, and select "Make Current"
-- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/793f1cba-b5eb-44aa-8194-1cfdd888d30e)
+- In the Levels Panel, you can expand the StudentLevels folder.
+- Find your level, and select "Make Current"
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/7f7cf72c-d2ae-48cf-b103-d3297a01e3b8)
 - Please only edit your own level.
 - You can edit your level in isolation as well but double clicking on your level in the content browser, however, you might not see much until you've added your spotlight
   
