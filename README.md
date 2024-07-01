@@ -1,5 +1,6 @@
-Object Preparation
-# Maya
+# Object Preparation
+
+## Maya
 
 ### Prep for Substance Painter
 Before beginning your Substance Painter work, I recommend labelling your object's materials clearly and meaningfully, these will translate to Substance Painter and Unreal engine and will carry through into your texture sets. A little but of organization now will make the work you do in Unreal breezy.
@@ -21,14 +22,16 @@ Before beginning your Substance Painter work, I recommend labelling your object'
 - scale object based on real world units and in reference to "Manny"
 - orient (translate/rotate) object so base rests on ground/grid
 - ask yourself how your object would need to rest with physics in mind
+
 ## Substance Painter
-- If you want to use opacity, change your Shader Settings (top right ball icon) to "pbr-metal-rough-with-alpha-blending"
+- If you want to use opacity, change your Shader Settings (top right ball icon) to "pbr-metal-rough-with-alpha-blending" ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/a16ecf09-a63a-49e3-945b-5f0b616f4e7d)
 - Use the "Unreal Engine 4" Preset for exporting
 - You will end up with 3-4 texture maps per texture set/material slot
-- "Emissive" textures will export only for those texture sets that you have manually designated in "Texture Set Settings"
+- "Emissive" textures will export only for those texture sets that you have manually designated in "Texture Set Settings" ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/125384d3-5c86-4709-a7db-d5604fc3f07e)
 - Likewise, "Opacity" (packed in the A channel of your Diffuse RGBA texture map) will not contain meaningful data unless using opacity in your texture set.
-- A note about "Emissive" in Substance Painter, you won't witness much difference in your emissive painting unless you change your "Shader Settings" and boost the "Emissive Intensity" slider
-- to further visualize emissive effects, visit "Display Settings" (top right monitor icon), scroll down and check "Activate Post Effects" and check "Glare"
+- A note about "Emissive" in Substance Painter, you won't witness much difference in your emissive painting unless you change your "Shader Settings" and boost the "Emissive Intensity" slider!
+- to further visualize emissive effects, visit "Display Settings" (top right monitor icon), scroll down and check "Activate Post Effects" and check "Glare" ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/3cd25a90-9f87-4c9d-9aff-899111454af0)
+
 - A note about "Opacity" in Substance Painter, to get the most apparent effects, use very contrasting masks or brushes. If you are working procedurally (say, wanting to make glass dirty around the edges) you can add a "Levels" effect above your procedural mask and drag the sliders to crush the highlights and shadows
 # Unreal
 
