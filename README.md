@@ -58,7 +58,7 @@ shared
 any other folder or asset not in your own folder.
 
 
-Keep your folders organized using: 
+### Keep your folders organized using: 
 - ***Static_Meshes***
 - ***Textures***
 - ***Materials***
