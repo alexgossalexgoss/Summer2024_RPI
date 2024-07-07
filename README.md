@@ -2,7 +2,7 @@
 1. [Object Preparation](#object-preparation)
    - [Substance Painter](#substance-painter)
    - [Maya Scale Tips](#maya-scale-tips)
-2. [Perforce](#acessing-submitting-from-Perforce)
+2. [Perforce](#acessing-submitting-from-perforce)
  - [Where Is the project in Perforce?](#where-is-the-project-in-perforce)
  - [What am I responsible for submitting to Perforce?](#what-am-i-responsible-for-submitting-to-perforce)
  - [What should I NOT submit to Perforce?](#what-should-i-not-submit-to-perforce)
@@ -48,7 +48,9 @@
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/700fc223-d20a-49c1-91b0-3165b424170f)
 - orient (translate/rotate) object so base rests on ground/grid
 - ask yourself how your object would need to rest with physics in mind
-# Importing and Adding your Object in Unreal Engine 5.4
+
+# Accessing and Submitting Project Files from Perforce
+
 Only make changes in YOUR folder in the Student folder
 - You have a private "Level" asset you can edit directly or as a child to the main level.
 
@@ -71,6 +73,7 @@ shared
 ## What should I NOT submit to Perforce?
 any other folder or asset not in your own folder.
 
+# Importing and Adding your Object in Unreal Engine 5.4
 
 ### Keep your folders organized using: 
 - ***Static_Meshes***
