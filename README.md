@@ -2,7 +2,7 @@
 1. [Object Preparation](#object-preparation)
    - [Substance Painter](#substance-painter)
    - [Maya Scale Tips](#maya-scale-tips)
-2. [Perforce](#acessing-submitting-from-perforce)
+2. [Perforce](#Accessing-and-Submitting-Project-Files-from-Perforce)
  - [Where Is the project in Perforce?](#where-is-the-project-in-perforce)
  - [What am I responsible for submitting to Perforce?](#what-am-i-responsible-for-submitting-to-perforce)
  - [What should I NOT submit to Perforce?](#what-should-i-not-submit-to-perforce)
