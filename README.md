@@ -154,7 +154,8 @@ One of my favorite buttons--a great tool for safe exploration!
 - Try pressing "T" on the keyboard, this will let you select through transparent objects.
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/d0524633-eca7-45db-8de9-f439eff81ffd)g
 - Similarly, if the editor feels cluttered with icons and other extras, press "G" to enter Game Preview.
-- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/3d8e3c10-5105-41a4-947c-1383ad3fb55e)
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/63df5059-810f-46ce-b71d-127e1b1f8c9c)
+
 
 
 
