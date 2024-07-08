@@ -12,6 +12,7 @@
    - [Using Material Templates (Instances)](#using-material-templates-instances)
    - [Editing your level](#editing-your-level)
    - [Using the Blueprint Actor Template](#using-the-blueprint-actor-template)
+   - [Some Tips](#Unreal-Editor-Tips)
 
 # Object Preparation
 ***Before beginning your Substance Painter work***, I recommend labelling your object's materials clearly and meaningfully in Maya's Hypershade, these will translate to Substance Painter *and* Unreal engine and will carry through into your texture sets. A little but of organization now will make the work you do in Unreal breezy.
@@ -145,4 +146,11 @@ One of my favorite buttons--a great tool for safe exploration!
  - When you save your level, all of your edits will save.
  - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/f216a1dc-799a-4690-8b1c-0d800d8f4c39)
  - Make sure all of your textures, static meshes, and materials are saved. Do not save the Persisent Level if you made any changes.
+
+## Unreal Editor Tips
+
+- Finding it difficult to select what you want? Are your neighbors' spotlight beams blocking your selection?
+- Try pressing "T" on the keyboard, this will let you select through transparent objects.
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/3e6edf4c-69e0-40b1-8d2c-ea431ad34428)
+- Similarly, if the editor feels cluttered with icons and other extras, press "G" to enter Game Preview.
 
