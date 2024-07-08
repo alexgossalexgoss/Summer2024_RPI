@@ -150,8 +150,11 @@ One of my favorite buttons--a great tool for safe exploration!
 ## Unreal Editor Tips
 
 - Finding it difficult to select what you want? Are your neighbors' spotlight beams blocking your selection?
-- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/3e6edf4c-69e0-40b1-8d2c-ea431ad34428)
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/1db49848-27c7-4833-b754-ecd9c9a1fa17)
 - Try pressing "T" on the keyboard, this will let you select through transparent objects.
-- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/d0a50add-544b-41c9-a816-82dea296aaf6)
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/d0524633-eca7-45db-8de9-f439eff81ffd)g
 - Similarly, if the editor feels cluttered with icons and other extras, press "G" to enter Game Preview.
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/3d8e3c10-5105-41a4-947c-1383ad3fb55e)
+
+
 
