@@ -152,7 +152,7 @@ One of my favorite buttons--a great tool for safe exploration!
 - Finding it difficult to select what you want? Are your neighbors' spotlight beams blocking your selection?
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/1db49848-27c7-4833-b754-ecd9c9a1fa17)
 - Try pressing "T" on the keyboard, this will let you select through transparent objects.
-- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/d0524633-eca7-45db-8de9-f439eff81ffd)g
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/d0524633-eca7-45db-8de9-f439eff81ffd)
 - Similarly, if the editor feels cluttered with icons and other extras, press "G" to enter Game Preview.
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/63df5059-810f-46ce-b71d-127e1b1f8c9c)
 
