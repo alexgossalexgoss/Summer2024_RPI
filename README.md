@@ -104,7 +104,7 @@ any other folder or asset not in your own folder.
 - keep Normal Maps as default
   
 ## Using Material Templates (Instances)
-- ***Copy*** the Material Parent Instance "MI_HybridObject_Parent" from the "Copy From Here" folder into your "Materials" folder.
+- ***Copy*** the Material Parent Instance "M_HybridObject_Inst" from the "Copy From Here" folder into your "Materials" folder.
 - From here, you can rename, edit, duplicate, and apply these as they now belong to you.
 - Material Instances come with parameters and variables that you can change to customize the look of your shaders.
 - To start, begin by adding your texture maps to the "0 - Texture Maps" section.
