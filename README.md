@@ -115,6 +115,21 @@ One of my favorite buttons--a great tool for safe exploration!
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/b6eb6e59-eb4d-4a40-b224-53e9741b8ed9)
 - Apply these materials by opening your static mesh object and apply them to their respective materials slots. this will ensure your materials will follow your static mesh wherever it is implemented
 - ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/8fb25f8d-88e9-4bdf-b3de-4fb2a4108acb)
+## Using the Detail Sections in the Material Instance
+- Detail Normal and Detail Color allow you to add some additional resolution to help keep things from breaking down into pixels and to stay ineresting.
+- You can see two folders under with the "DetailTextures" folder in the content directory.
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/76507d15-a06e-40a8-8bc2-8034b6f45e02)
+- To add a tiling detail normal map check the "Use Detail Normal' flag and drag and drop one of the normal map textures into the texture slot. Adjust other parameters as you see fit.
+- Try adjusting the "Detail Normal Scale" and "Detail Normal Intensity" to the extremes to get an idea of what is happening.
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/1a57c6da-68ec-428b-b74f-69c6f7f921ae)
+- Detail Color uses grayscale tiling textures that you can add similarly.
+- ![image](https://github.com/alexgossalexgoss/Summer2024_RPI/assets/122226156/bdee6b7f-6e72-49b2-af49-d31a945911e0)
+- There are many more parameters available including scale and intensity.
+- However, there is also the ability to set the tint of dark and light portions of the texture to colors.
+
+
+
+
 
 ## Editing ***your*** level
 - first, make sure you have the levels panel available in the engine workspace.
